@@ -1,0 +1,63 @@
+C:\PLOSKIKH\app\app\obj\Debug\netstandard2.0\app.csproj.AssemblyReference.cache
+C:\PLOSKIKH\app\app\obj\Debug\netstandard2.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\PLOSKIKH\app\app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\PLOSKIKH\app\app\obj\Debug\netstandard2.0\FirstPage.xaml.g.cs
+C:\PLOSKIKH\app\app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\PLOSKIKH\app\app\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\PLOSKIKH\app\app\obj\Debug\netstandard2.0\app.AssemblyInfoInputs.cache
+C:\PLOSKIKH\app\app\obj\Debug\netstandard2.0\app.AssemblyInfo.cs
+C:\PLOSKIKH\app\app\obj\Debug\netstandard2.0\app.csproj.CoreCompileInputs.cache
+C:\PLOSKIKH\app\app\bin\Debug\netstandard2.0\app.deps.json
+C:\PLOSKIKH\app\app\bin\Debug\netstandard2.0\app.dll
+C:\PLOSKIKH\app\app\bin\Debug\netstandard2.0\ref\app.dll
+C:\PLOSKIKH\app\app\bin\Debug\netstandard2.0\app.pdb
+C:\PLOSKIKH\app\app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\PLOSKIKH\app\app\obj\Debug\netstandard2.0\app.dll
+C:\PLOSKIKH\app\app\obj\Debug\netstandard2.0\refint\app.dll
+C:\PLOSKIKH\app\app\obj\Debug\netstandard2.0\app.pdb
+C:\Users\79961\Downloads\Telegram Desktop\app\app\bin\Debug\netstandard2.0\app.deps.json
+C:\Users\79961\Downloads\Telegram Desktop\app\app\bin\Debug\netstandard2.0\app.dll
+C:\Users\79961\Downloads\Telegram Desktop\app\app\bin\Debug\netstandard2.0\ref\app.dll
+C:\Users\79961\Downloads\Telegram Desktop\app\app\bin\Debug\netstandard2.0\app.pdb
+C:\Users\79961\Downloads\Telegram Desktop\app\app\obj\Debug\netstandard2.0\app.csproj.AssemblyReference.cache
+C:\Users\79961\Downloads\Telegram Desktop\app\app\obj\Debug\netstandard2.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79961\Downloads\Telegram Desktop\app\app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\79961\Downloads\Telegram Desktop\app\app\obj\Debug\netstandard2.0\FirstPage.xaml.g.cs
+C:\Users\79961\Downloads\Telegram Desktop\app\app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\79961\Downloads\Telegram Desktop\app\app\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\Users\79961\Downloads\Telegram Desktop\app\app\obj\Debug\netstandard2.0\app.AssemblyInfoInputs.cache
+C:\Users\79961\Downloads\Telegram Desktop\app\app\obj\Debug\netstandard2.0\app.AssemblyInfo.cs
+C:\Users\79961\Downloads\Telegram Desktop\app\app\obj\Debug\netstandard2.0\app.csproj.CoreCompileInputs.cache
+C:\Users\79961\Downloads\Telegram Desktop\app\app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\79961\Downloads\Telegram Desktop\app\app\obj\Debug\netstandard2.0\app.dll
+C:\Users\79961\Downloads\Telegram Desktop\app\app\obj\Debug\netstandard2.0\refint\app.dll
+C:\Users\79961\Downloads\Telegram Desktop\app\app\obj\Debug\netstandard2.0\app.pdb
+C:\chubarkov2\zd6_1_ChubarkovMatvey\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\app.csproj.AssemblyReference.cache
+C:\chubarkov2\zd6_1_ChubarkovMatvey\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\chubarkov2\zd6_1_ChubarkovMatvey\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\chubarkov2\zd6_1_ChubarkovMatvey\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\FirstPage.xaml.g.cs
+C:\chubarkov2\zd6_1_ChubarkovMatvey\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\chubarkov2\zd6_1_ChubarkovMatvey\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\chubarkov2\zd6_1_ChubarkovMatvey\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\app.AssemblyInfoInputs.cache
+C:\chubarkov2\zd6_1_ChubarkovMatvey\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\app.AssemblyInfo.cs
+C:\chubarkov2\zd6_1_ChubarkovMatvey\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\app.csproj.CoreCompileInputs.cache
+C:\chubarkov2\zd6_1_ChubarkovMatvey\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\app.dll
+C:\chubarkov2\zd6_1_ChubarkovMatvey\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\refint\app.dll
+C:\chubarkov2\zd6_1_ChubarkovMatvey\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\app.pdb
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\app.csproj.AssemblyReference.cache
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\FirstPage.xaml.g.cs
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\app.AssemblyInfoInputs.cache
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\app.AssemblyInfo.cs
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\app.csproj.CoreCompileInputs.cache
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\app.dll
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\refint\app.dll
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\app.pdb
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\bin\Debug\netstandard2.0\app.deps.json
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\bin\Debug\netstandard2.0\app.dll
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\bin\Debug\netstandard2.0\ref\app.dll
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\bin\Debug\netstandard2.0\app.pdb
+C:\chubarkov2\zd6_1_ChubarkovMatvey\app\obj\Debug\netstandard2.0\XamlC.stamp

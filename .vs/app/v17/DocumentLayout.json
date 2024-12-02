@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\chubarkov2\\zd6_1_ChubarkovMatvey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|c:\\chubarkov2\\zd6_1_chubarkovmatvey\\app\\secondpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|solutionrelative:app\\secondpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|c:\\chubarkov2\\zd6_1_chubarkovmatvey\\app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|solutionrelative:app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|c:\\chubarkov2\\zd6_1_chubarkovmatvey\\app\\firstpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|solutionrelative:app\\firstpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|c:\\chubarkov2\\zd6_1_chubarkovmatvey\\app\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|solutionrelative:app\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|c:\\chubarkov2\\zd6_1_chubarkovmatvey\\app\\firstpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|solutionrelative:app\\firstpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|c:\\chubarkov2\\zd6_1_chubarkovmatvey\\app\\firstpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|solutionrelative:app\\firstpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 596,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FirstPage.xaml",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_1_ChubarkovMatvey\\app\\FirstPage.xaml",
+              "RelativeDocumentMoniker": "app\\FirstPage.xaml",
+              "ToolTip": "C:\\chubarkov2\\zd6_1_ChubarkovMatvey\\app\\FirstPage.xaml",
+              "RelativeToolTip": "app\\FirstPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T04:16:24.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_1_ChubarkovMatvey\\app\\App.xaml.cs",
+              "RelativeDocumentMoniker": "app\\App.xaml.cs",
+              "ToolTip": "C:\\chubarkov2\\zd6_1_ChubarkovMatvey\\app\\App.xaml.cs",
+              "RelativeToolTip": "app\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T04:16:05.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_1_ChubarkovMatvey\\app\\App.xaml",
+              "RelativeDocumentMoniker": "app\\App.xaml",
+              "ToolTip": "C:\\chubarkov2\\zd6_1_ChubarkovMatvey\\app\\App.xaml",
+              "RelativeToolTip": "app\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T04:16:02.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecondPage.xaml",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_1_ChubarkovMatvey\\app\\SecondPage.xaml",
+              "RelativeDocumentMoniker": "app\\SecondPage.xaml",
+              "ToolTip": "C:\\chubarkov2\\zd6_1_ChubarkovMatvey\\app\\SecondPage.xaml",
+              "RelativeToolTip": "app\\SecondPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T04:14:12.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstPage.xaml",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_1_ChubarkovMatvey\\app\\FirstPage.xaml",
+              "RelativeDocumentMoniker": "app\\FirstPage.xaml",
+              "ToolTip": "C:\\chubarkov2\\zd6_1_ChubarkovMatvey\\app\\FirstPage.xaml",
+              "RelativeToolTip": "app\\FirstPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T04:14:04.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FirstPage.xaml.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\zd6_1_ChubarkovMatvey\\app\\FirstPage.xaml.cs",
+              "RelativeDocumentMoniker": "app\\FirstPage.xaml.cs",
+              "ToolTip": "C:\\chubarkov2\\zd6_1_ChubarkovMatvey\\app\\FirstPage.xaml.cs",
+              "RelativeToolTip": "app\\FirstPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T04:13:35.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 578,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
